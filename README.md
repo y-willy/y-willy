@@ -1,4 +1,5 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-willy&repo=ctf_python&layout=compact&theme=dark)](https://github.com/y-willy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-willy&repo=ctf_python&layout=compact&theme=dark)](https://github.com/y-willy/ctf_python)
+
 
 
 
