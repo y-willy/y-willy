@@ -1,9 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-willy&hide=jupyter%20notebook&layout=compact&theme=dark)]
-
-
-
-
-
-
-
-
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=y-willy&hide=jupyter%20notebook&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
